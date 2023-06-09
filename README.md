@@ -1,4 +1,5 @@
-##GR
+link to live site-  https://perpe123.github.io/Lesson_1_and_2_Task_6_Obiefuna_Toochi/
+
 ##How to run/test this project
 
 ##ensure you have git installed properly on your machine
